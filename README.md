@@ -30,7 +30,7 @@
   - Internet Tech Matters blog post
   - Internetsociety.org homepage feature
   - World IPv6 Launch Deployment Quiz - linking to report, call to action, driving social media attention and sharing
-  - Press Release ,we invite quotes from your organisation to support
+  - Press Release, we invite quotes from your organisation to support
   - Articles placed on other sites (e.g. CircleID)
 
 ## Collaboration Opportunities
