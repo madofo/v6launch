@@ -22,14 +22,14 @@
 - RIPE NCC will host an online EDUCA event about IPv6 deployment
 - Akamai will publish a blog post including updated measurement results
 - ISOC activities
--- Refreshed State of IPv6 Deployment report
--- Refreshed World IPv6 Launch webpages
--- World IPv6 Launch blogpost
--- Internet Tech Matters blog post
--- Internetsociety.org homepage feature
--- World IPv6 Launch Deployment Quiz - linking to report, call to action, driving social media attention and sharing
--- Press Release ,we invite quotes from your organisation to support
--- Articles placed on other sites (e.g. CircleID)
+  - Refreshed State of IPv6 Deployment report
+  - Refreshed World IPv6 Launch webpages
+  - World IPv6 Launch blogpost
+  - Internet Tech Matters blog post
+  - Internetsociety.org homepage feature
+  - World IPv6 Launch Deployment Quiz - linking to report, call to action, driving social media attention and sharing
+  - Press Release ,we invite quotes from your organisation to support
+  - Articles placed on other sites (e.g. CircleID)
 
 ## Collaboration Opportunities
 
