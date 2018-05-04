@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+# World IPv6 Launch, 6th Launchiversary
+# Date: 2018-06-06
 
-You can use the [editor on GitHub](https://github.com/madofo/v6launch/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![image]()
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Goals
 
-### Markdown
+- Raise awareness about progress of IPv6 deployment in the 6 years since World IPv6 Launch started on 2012-06-06
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Encourage accelerated deployment plans, espeically in countries, networks and industries that have seen little deployment to date
 
-```markdown
-Syntax highlighted code block
+## Key Messages
 
-# Header 1
-## Header 2
-### Header 3
+- "IPv6 deployment has made huge progress since 2012"
+- "There's still considerable work to do"
+- ISOC has resources to help (D360)
 
-- Bulleted
-- List
+## Confirmed Activities
 
-1. Numbered
-2. List
+- JPNIC are planning a blog post summarising status of IPv6 deployment in Japan
+- LACNIC are planning blog posts (Spanish language) and webinars
+- RIPE NCC will host an online EDUCA event about IPv6 deployment
+- Akamai will publish a blog post including updated measurement results
+- ISOC activities
+-- RefreshedStateofIPv6Deploymentreport
+-- RefreshedWorldIPv6Launchwebpages
+-- WorldIPv6Launchblogpost
+-- Internet Tech Matters blog post
+-- Internetsociety.org homepage feature
+-- WorldIPv6LaunchDeploymentQuiz-linkingtoreport,calltoaction, driving social media attention and sharing
+-- PressRelease,weinvitequotesfromyourorganisationtosupport
+-- Articlesplacedonothersites(e.g.CircleID)
 
-**Bold** and _Italic_ and `Code` text
+## Collaboration Opportunities
 
-[Link](url) and ![Image](src)
-```
+- Quotes for Press Releases
+- Use common hashtags: **#IPv6** **#v6launch**
+- Social media cross-promotion (e.g. retweets, referencing others posts in our own, etc.)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Follow-on Activities
 
-### Jekyll Themes
+- The Rocky Mountain IPv6 Task Force are planning substantial IPv6 promotion at NANOG73 in Denver June 25-27. The Task Force will be sponsoring the Monday June 25 afternoon break and welcome collaborators willing to help spread the message about IPv6. ISOC will be supporting.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/madofo/v6launch/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Other Resources
 
-### Support or Contact
+- LinkedIn blogs: [link](https://engineering.linkedin.com/blog/topic/ipv6)
+- IPv6 @ LinkedIn presentation: [link](https://www.youtube.com/watch?v=cNMQUCeNW78)
+- Rocky Mountain IPv6 Task Force Channel: [link](https://www.youtube.com/channel/UC0ZRZIvwE_Ak0nfzgbgYMHw)
+- World IPv6 Launch measurements: [link](http://www.worldipv6launch.org/measurements/)
+- Deploy360 IPv6 pages: [link](https://www.internetsociety.org/deploy360/ipv6/)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
