@@ -1,7 +1,7 @@
 # World IPv6 Launch, 6th Launchiversary
 # Date: 2018-06-06
 
-![image]()
+![World IPv6 Launch Logo](http://www.worldipv6launch.org/wp-content/themes/ipv6/img/logo-top.png)
 
 ## Goals
 
@@ -43,10 +43,10 @@
 
 ## Other Resources
 
-- LinkedIn blogs: [link](https://engineering.linkedin.com/blog/topic/ipv6)
-- IPv6 @ LinkedIn presentation: [link](https://www.youtube.com/watch?v=cNMQUCeNW78)
-- Rocky Mountain IPv6 Task Force Channel: [link](https://www.youtube.com/channel/UC0ZRZIvwE_Ak0nfzgbgYMHw)
-- World IPv6 Launch measurements: [link](http://www.worldipv6launch.org/measurements/)
-- Deploy360 IPv6 pages: [link](https://www.internetsociety.org/deploy360/ipv6/)
+- [LinkedIn blogs](https://engineering.linkedin.com/blog/topic/ipv6)
+- [IPv6 @ LinkedIn presentation](https://www.youtube.com/watch?v=cNMQUCeNW78)
+- [Rocky Mountain IPv6 Task Force Channel](https://www.youtube.com/channel/UC0ZRZIvwE_Ak0nfzgbgYMHw)
+- [World IPv6 Launch measurements](http://www.worldipv6launch.org/measurements/)
+- [Deploy360 IPv6 pages](https://www.internetsociety.org/deploy360/ipv6/)
 
 
