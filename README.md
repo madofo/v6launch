@@ -48,5 +48,3 @@
 - [Rocky Mountain IPv6 Task Force Channel](https://www.youtube.com/channel/UC0ZRZIvwE_Ak0nfzgbgYMHw)
 - [World IPv6 Launch measurements](http://www.worldipv6launch.org/measurements/)
 - [Deploy360 IPv6 pages](https://www.internetsociety.org/deploy360/ipv6/)
-
-
