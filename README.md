@@ -1,7 +1,7 @@
+![World IPv6 Launch Logo](http://www.worldipv6launch.org/wp-content/themes/ipv6/img/logo-top.png)
+
 # World IPv6 Launch, 6th Launchiversary
 # Date: 2018-06-06
-
-![World IPv6 Launch Logo](http://www.worldipv6launch.org/wp-content/themes/ipv6/img/logo-top.png)
 
 ## Goals
 
@@ -11,8 +11,8 @@
 
 ## Key Messages
 
-- "IPv6 deployment has made huge progress since 2012"
-- "There's still considerable work to do"
+- IPv6 deployment has made huge progress since 2012
+- There's still considerable work to do
 - ISOC has resources to help (D360)
 
 ## Confirmed Activities
@@ -22,14 +22,14 @@
 - RIPE NCC will host an online EDUCA event about IPv6 deployment
 - Akamai will publish a blog post including updated measurement results
 - ISOC activities
--- RefreshedStateofIPv6Deploymentreport
--- RefreshedWorldIPv6Launchwebpages
--- WorldIPv6Launchblogpost
+-- Refreshed State of IPv6 Deployment report
+-- Refreshed World IPv6 Launch webpages
+-- World IPv6 Launch blogpost
 -- Internet Tech Matters blog post
 -- Internetsociety.org homepage feature
--- WorldIPv6LaunchDeploymentQuiz-linkingtoreport,calltoaction, driving social media attention and sharing
--- PressRelease,weinvitequotesfromyourorganisationtosupport
--- Articlesplacedonothersites(e.g.CircleID)
+-- World IPv6 Launch Deployment Quiz - linking to report, call to action, driving social media attention and sharing
+-- Press Release ,we invite quotes from your organisation to support
+-- Articles placed on other sites (e.g. CircleID)
 
 ## Collaboration Opportunities
 
