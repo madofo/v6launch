@@ -20,8 +20,7 @@
 - JPNIC are planning a blog post summarising status of IPv6 deployment in Japan
 - NIC.br is coordinating an IPv6 panel event on 06 June as part of the [Abrint (ISP association) meeting](http://www.abrint.com.br/evento/abrint-2018-encontro-nacional) in São Paulo - 4000 participants expected.
 - ISOC Brasil Chapter is planning an online IPv6 panel event on 06 June. Inviting some technical people from the major brazilian ISPs, that are doing a good job with IPv6 deployment to talk and debate.
-- LACNIC are planning blog posts (Spanish language) and webinars
-- LACNIC are organizing a webinar on the 5th June so we could post in our social media the recording on the 6th june and we are planning to write an article about IPv6 deployment in our region as well. 
+- LACNIC are organizing a webinar on the 5th June and will share a recording via social media on 6th June. LACNIC are also planning to publish an article about IPv6 deployment in the LACNIC region.
 - RIPE NCC will host an online EDUCA event about IPv6 deployment
 - Akamai will publish a blog post including updated measurement results
 - ISOC activities
