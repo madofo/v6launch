@@ -13,7 +13,7 @@
 
 - IPv6 deployment has made huge progress since 2012
 - There's still considerable work to do
-- ISOC has resources to help (D360)
+- ISOC and others have resources to help (D360)
 
 ## Confirmed Activities
 
