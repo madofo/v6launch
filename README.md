@@ -11,19 +11,20 @@
 
 ## Key Messages
 
-- IPv6 deployment has made huge progress since 2012
-- There's still considerable work to do
+- IPv6 deployment has made huge progress since 2012 - it's deployed in all regions of the globe and some networks and countries now use IPv6 for the majority of their traffic to dual-stack content providers
+- There's still considerable work to do - some major economies still have no to little IPv6 deployment and there are many networks that have yet to deploy IPv6
 - ISOC and others have resources to help (D360)
 
 ## Confirmed Activities
 
 - JPNIC are planning a blog post summarising status of IPv6 deployment in Japan
-- APNIC will be running a week of IPv6 content for the anniversary
+- APNIC will be running a week of IPv6 content for the anniversary including an online training component
 - NIC.br is coordinating an IPv6 panel event on 06 June as part of the [Abrint (ISP association) meeting](http://www.abrint.com.br/evento/abrint-2018-encontro-nacional) in São Paulo - 4000 participants expected.
 - ISOC Brasil Chapter is planning an online IPv6 panel event on 06 June. Inviting some technical people from the major brazilian ISPs, that are doing a good job with IPv6 deployment to talk and debate.
 - LACNIC are organizing a webinar on the 5th June and will share a recording via social media on 6th June. LACNIC are also planning to publish an article about IPv6 deployment in the LACNIC region.
 - RIPE NCC will host an online EDUCA event about IPv6 deployment
 - Akamai will publish a blog post including updated measurement results
+- UK IPv6 Council are planning a meetup in London
 - ISOC activities
   - Refreshed State of IPv6 Deployment report
   - Refreshed World IPv6 Launch webpages
@@ -32,6 +33,7 @@
   - Internetsociety.org homepage feature
   - World IPv6 Launch Deployment Quiz - linking to report, call to action, driving social media attention and sharing
   - Press Release, we invite quotes from your organisation to support
+  - Video from Vint Cerf
   - Articles placed on other sites (e.g. CircleID)
 
 ## Collaboration Opportunities
