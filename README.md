@@ -25,6 +25,7 @@
 - RIPE NCC will host an online EDUCA event about IPv6 deployment
 - Akamai will publish a blog post including updated measurement results
 - UK IPv6 Council are planning a meetup in London
+- CESNET is hosting a [full-day seminar](https://www.cesnet.cz/akce/ipv6-2018/) about IPv6 in Prague (in Czech language only)
 - ISOC activities
   - Refreshed State of IPv6 Deployment report
   - Refreshed World IPv6 Launch webpages
