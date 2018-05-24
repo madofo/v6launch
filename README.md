@@ -24,6 +24,7 @@
 - LACNIC are organizing a webinar on the 5th June and will share a recording via social media on 6th June. LACNIC are also planning to publish an article about IPv6 deployment in the LACNIC region.
 - RIPE NCC will host an online EDUCA event about IPv6 deployment
 - Akamai will publish a blog post including updated measurement results
+- Oracle Dyn Internet Intelligence planning a blog post examining IPv6 deployment through historical recursive DNS data.
 - UK IPv6 Council are planning a meetup in London
 - ISOC activities
   - Refreshed State of IPv6 Deployment report
