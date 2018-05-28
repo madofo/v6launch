@@ -28,6 +28,7 @@
 - UK IPv6 Council are planning a meetup in London
 - CESNET is hosting a [full-day seminar](https://www.cesnet.cz/akce/ipv6-2018/) about IPv6 in Prague (in Czech language only)
 - CIRA is planning to release a blogpost “We need translation services in Internet exchange points”
+- Vietnam IPv6 deployment status and events: https://blog.apnic.net/2018/05/28/viet-nam-ipv6-day-2018/
 - ISOC activities
   - Refreshed State of IPv6 Deployment report
   - Refreshed World IPv6 Launch webpages
