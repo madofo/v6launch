@@ -1,4 +1,4 @@
-![World IPv6 Launch Logo](http://www.worldipv6launch.org/wp-content/themes/ipv6/img/logo-top.png)
+[World IPv6 Launch Logo](http://www.worldipv6launch.org/wp-content/themes/ipv6/img/logo-top.png)
 
 # World IPv6 Launch, 6th Launchiversary
 # Date: 2018-06-06
@@ -31,6 +31,7 @@
 - Vietnam IPv6 deployment status and events: https://blog.apnic.net/2018/05/28/viet-nam-ipv6-day-2018/
 - ISOC activities
   - Refreshed State of IPv6 Deployment report
+  - State of IPv6 Deployment infographic
   - Refreshed World IPv6 Launch webpages
   - World IPv6 Launch blogpost
   - Internet Tech Matters blog post
