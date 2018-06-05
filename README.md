@@ -1,4 +1,3 @@
-[World IPv6 Launch Logo](http://www.worldipv6launch.org/wp-content/themes/ipv6/img/logo-top.png)
 
 # World IPv6 Launch, 6th Launchiversary
 # Date: 2018-06-06
